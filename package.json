@@ -1,0 +1,14 @@
+{
+    "name": "_bot",
+    "version": "1.0.0",
+    "description": "Is bot, not human",
+    "main": "bot.js",
+    "author": "Me",
+    "dependencies": {
+        "@discordjs/uws": "^11.149.1",
+        "discord.js": "^11.5.1",
+        "ffmpeg-binaries": "^4.0.0",
+        "node-opus": "^0.3.2",
+        "ytdl-core": "^0.29.3"
+    }
+}
